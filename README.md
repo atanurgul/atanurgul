@@ -1,197 +1,108 @@
-<div align="center">
+Atanur Gül
 
-# Atanur Gül
+Software Engineer
 
-### Software Engineer
+C# / .NET · Python · SQL · Backend Development · Software Engineering
 
-**C# / .NET · Python · SQL · Backend Development · Software Engineering**
+Building software with a focus on backend systems, clean design and real-world engineering practices.
 
-<br>
 
-> Building reliable software while learning how real systems are designed, tested, deployed and maintained.
 
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atanur%20Gül-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atanurgul/)
-[![GitHub](https://img.shields.io/badge/GitHub-atanurgul-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/atanurgul)
+👨‍💻 About Me
 
-</div>
+I'm a Software Engineer focused on building a strong foundation in backend development and real-world software engineering.
 
----
+Rather than only making code work, I'm interested in understanding how software should be designed, structured, tested, deployed and maintained.
 
-## 👨‍💻 About Me
+⚙️ Working with C#/.NET, Python and SQL
 
-I'm a **Software Engineer** focused on building a strong foundation in backend development and real-world software engineering.
+🌐 Interested in backend systems, APIs and databases
 
-Rather than only making code work, I'm interested in understanding how software should be **designed, structured, tested, deployed and maintained**.
+🧠 Developing my knowledge of software architecture and system design
 
-* ⚙️ Working with **C#/.NET, Python and SQL**
-* 🌐 Interested in **backend systems, APIs and databases**
-* 🧠 Developing my knowledge of **software architecture and system design**
-* 🧪 Improving in **testing, debugging and maintainable code**
-* 🚀 Learning the complete path from **idea → development → production**
-* 📦 Currently exploring **Docker, CI/CD, deployment and observability**
+🧪 Improving in testing, debugging and maintainable code
 
----
+🚀 Learning the complete path from idea → development → production
 
-## ⚡ Tech Stack
+📦 Currently exploring Docker, CI/CD, deployment and observability
 
-<div align="center">
+⚡ Tech Stack
 
-### Languages & Core
+Languages & Core
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Backend & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-</div>
 
----
 
-## 🚀 Featured Projects
+Backend & Tools
 
-<table>
-<tr>
-<td width="50%">
 
-### 🎓 Course Registration System
 
-**C# · .NET 8 · SQL Server**
+
+
+
+🚀 Featured Projects
+
+🎓 Course Registration System
+
+C# · .NET 8 · SQL Server
 
 Course registration application built around a relational database model for students, courses and enrollments.
 
-**Highlights**
+Highlights
 
-* Relational database design
-* SQL constraints & relationships
-* .NET 8
-* SQL Server integration
+Relational database design
 
-[**View Project →**](https://github.com/atanurgul/KursKayitSistemi)
+SQL constraints & relationships
 
-</td>
+.NET 8 + SQL Server integration
 
-<td width="50%">
+View Project →
 
-### 📚 Library Management API
+📚 Library Management API
 
-**Python · FastAPI · Pytest · OOP**
+Python · FastAPI · Pytest · OOP
 
 REST API for managing a library system using object-oriented programming and automated testing.
 
-**Highlights**
+Highlights
 
-* RESTful API
-* FastAPI
-* Object-oriented design
-* Automated testing with Pytest
+RESTful API design
 
-[**View Project →**](https://github.com/atanurgul/PythonBootcampProject)
+Object-oriented structure
 
-</td>
-</tr>
+Automated testing with Pytest
 
-<tr>
-<td width="50%">
+View Project →
 
-### 🍷 Wine Quality Classification
+🍷 Wine Quality Classification
 
-**Python · Scikit-learn · Machine Learning**
+Python · Scikit-learn · Machine Learning
 
 Machine-learning project predicting wine quality categories using chemical properties.
 
-**Highlights**
+Highlights
 
-* Random Forest
-* SMOTE
-* GridSearchCV
-* Classification metrics
+Random Forest classification
 
-[**View Project →**](https://github.com/atanurgul/MLBootcampProject)
+SMOTE for class balancing
 
-</td>
+GridSearchCV for model tuning
 
-<td width="50%">
+View Project →
 
-### 🔨 Currently Building
+🎯 Current Focus
 
-A new software engineering project focused on applying modern backend and production engineering practices.
+Architecture · API Design · Testing · Docker · CI/CD · Observability · System Design
 
-**Planned Focus**
+My focus is growing from implementation into end-to-end software engineering.
 
-* API architecture
-* Database design
-* Testing
-* Docker
-* CI/CD
-* Deployment
+🤝 Let's Connect
 
-**More coming soon.**
+I'm interested in software engineering, backend development and building real-world products.
 
-</td>
-</tr>
-</table>
 
----
 
-## 🧭 Engineering Journey
-
-I'm actively expanding beyond coding into the broader software engineering lifecycle.
-
-```text
-Requirements
-    ↓
-Architecture
-    ↓
-Database & API Design
-    ↓
-Implementation
-    ↓
-Testing
-    ↓
-Code Review
-    ↓
-CI/CD
-    ↓
-Deployment
-    ↓
-Monitoring & Observability
-```
-
-### Currently developing deeper knowledge in
-
-`Software Architecture` · `REST API Design` · `Database Design` · `Testing`
-
-`Docker` · `CI/CD` · `Security` · `Deployment`
-
-`Observability` · `System Design` · `Code Review`
-
----
-
-## 🎯 What I'm Working Toward
-
-My focus is developing the engineering judgment required to contribute across the **entire software lifecycle** — from understanding a problem and designing a solution to deploying and maintaining reliable software in production.
-
----
-
-<div align="center">
-
-### Let's Connect
-
-I'm interested in **software engineering, backend development and building real-world products.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atanurgul/)
-
-<br>
-
-**atanurgul**
-
-</div>
+atanurgul
