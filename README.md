@@ -1,238 +1,76 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./hero-light.png">
-  <img src="./hero-dark.png" alt="Atanur Gül — Software Engineer" width="100%">
-</picture>
-
-<br>
-
 <div align="center">
 
+Atanur Gül
 
+Software Engineer
 
+C# / .NET · Python · SQL · Backend Development
 
+LinkedIn ·
+Email ·
+Repositories
 
 </div>
 
-// ABOUT
+About
 
-Software Engineer focused on backend development, APIs, databases and software engineering practices.
+I'm a Software Engineer focused on backend development, APIs, databases and software engineering practices.
 
-I care about understanding the whole lifecycle of a system — from requirements and design to testing, deployment and improvement.
+I care about more than making code work. I'm interested in how software is designed, structured, tested, shipped and maintained — and in building the engineering judgment needed to contribute across the full software lifecycle.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Selected Work
 
-⚙️ Building
+Course Registration System
 
-C# / .NET & SQL
+C# · .NET 8 · SQL Server
 
-Backend-oriented projects with a focus on structure, data and maintainability.
+A course registration application built around a relational data model for students, courses and enrollments.
 
-</td>
-<td width="33%" valign="top">
-
-🧠 Deepening
-
-APIs · Testing · Architecture
-
-Improving how I design systems, reason about trade-offs and verify software.
-
-</td>
-<td width="33%" valign="top">
-
-🚀 Next
-
-Docker · CI/CD · Observability
-
-Moving from “it works” toward software that can be shipped and operated reliably.
-
-</td>
-</tr>
-</table>
-
-// SELECTED WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🎓 Course Registration System
-
-
-
-
-
-A course registration application built around a relational model for students, courses and enrollments.
-
-Focus
-
-relational database design
-
-constraints & relationships
-
-SQL Server integration
-
-.NET data access
+Focus: database design, constraints, relationships and .NET data access
 
 View repository →
 
-</td>
+Library Management API
 
-<td width="50%" valign="top">
+Python · FastAPI · Pytest
 
-📚 Library Management API
+A library management system combining object-oriented programming, REST API development and automated testing.
 
-
-
-
-
-A library management system combining OOP, REST API development and automated testing.
-
-Focus
-
-RESTful API design
-
-object-oriented structure
-
-automated tests
-
-FastAPI
+Focus: API design, OOP structure and automated tests
 
 View repository →
 
-</td>
-</tr>
+Wine Quality Classification
 
-<tr>
-<td width="50%" valign="top">
+Python · Scikit-learn
 
-🍷 Wine Quality Classification
+A machine-learning classification project based on the UCI Wine Quality dataset.
 
-
-
-
-A machine-learning classification project using chemical properties from the UCI Wine Quality dataset.
-
-Focus
-
-preprocessing
-
-SMOTE
-
-GridSearchCV
-
-model evaluation
+Focus: data preprocessing, SMOTE, GridSearchCV and model evaluation
 
 View repository →
 
-</td>
-
-<td width="50%" valign="top">
-
-🧪 Next Build
-
-
-
-
-The next project will go deeper into production-oriented engineering practices.
-
-Planned focus
-
-API architecture
-
-automated testing
-
-Docker
-
-CI/CD
-
-deployment
-
-building...
-
-</td>
-</tr>
-</table>
-
-// TOOLBOX
-
-<div align="center">
+Tech & Engineering
 
 Core
-
-
-
-
-
+C# · .NET · Python · SQL
 
 Backend & Data
-
-
-
-
-
+REST APIs · FastAPI · SQL Server · Relational Databases
 
 Engineering
+Git · Testing · Debugging · Database Design · Code Review
 
+Current Direction
 
+Currently going deeper into:
 
+Docker · CI/CD · Deployment · Observability · System Design
 
-
-
-
-</div>
-
-// ENGINEERING LOOP
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   requirements                                               │
-│        ↓                                                     │
-│   design → database & api                                    │
-│        ↓                                                     │
-│   implementation                                             │
-│        ↓                                                     │
-│   test & debug                                               │
-│        ↓                                                     │
-│   ship → observe → improve                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+My goal is to build software I can explain, test, ship and improve.
 
 <div align="center">
 
-Build software you can explain, test, ship and improve.
-
-</div>
-
-// CURRENT FOCUS
-
-focus:
-  backend:
-    - C# / .NET
-    - REST API design
-    - SQL & relational modeling
-
-  engineering:
-    - testing
-    - debugging
-    - architecture
-    - code review
-
-  next:
-    - Docker
-    - CI/CD
-    - deployment
-    - observability
-    - system design
-
-<div align="center">
-
-software engineering · backend · systems
-
-<br>
-
-From implementation to engineering.
+Software Engineering · Backend · Systems
 
 </div>
