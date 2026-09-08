@@ -4,14 +4,14 @@ Software Engineer
 
 C# / .NET · Python · SQL · Backend Development · Software Engineering
 
-Building software with a focus on backend systems, clean design and real-world engineering practices.
+Building reliable software while learning how real systems are designed, tested, deployed and maintained.
 
 
 
 
 👨‍💻 About Me
 
-I'm a Software Engineer focused on building a strong foundation in backend development and real-world software engineering.
+I'm a Software Engineer focused on backend development and real-world software engineering.
 
 Rather than only making code work, I'm interested in understanding how software should be designed, structured, tested, deployed and maintained.
 
@@ -19,13 +19,9 @@ Rather than only making code work, I'm interested in understanding how software 
 
 🌐 Interested in backend systems, APIs and databases
 
-🧠 Developing my knowledge of software architecture and system design
-
 🧪 Improving in testing, debugging and maintainable code
 
-🚀 Learning the complete path from idea → development → production
-
-📦 Currently exploring Docker, CI/CD, deployment and observability
+📦 Exploring Docker, CI/CD, deployment and observability
 
 ⚡ Tech Stack
 
@@ -69,9 +65,9 @@ REST API for managing a library system using object-oriented programming and aut
 
 Highlights
 
-RESTful API design
+RESTful API
 
-Object-oriented structure
+Object-oriented design
 
 Automated testing with Pytest
 
@@ -85,24 +81,18 @@ Machine-learning project predicting wine quality categories using chemical prope
 
 Highlights
 
-Random Forest classification
+Random Forest
 
-SMOTE for class balancing
+SMOTE
 
-GridSearchCV for model tuning
+GridSearchCV
 
 View Project →
 
 🎯 Current Focus
 
-Architecture · API Design · Testing · Docker · CI/CD · Observability · System Design
+Software Architecture · REST API Design · Testing · Docker · CI/CD · Observability · System Design
 
-My focus is growing from implementation into end-to-end software engineering.
-
-🤝 Let's Connect
+Let's Connect
 
 I'm interested in software engineering, backend development and building real-world products.
-
-
-
-atanurgul
