@@ -2,7 +2,9 @@
 
 # Atanur Gül
 
-### Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;.NET+Developer;Building+Real-World+Software" alt="Typing SVG" />
+
+<br>
 
 **C# / .NET · Python · SQL · Backend Development · Software Engineering**
 
@@ -50,58 +52,6 @@ I’m interested in more than making code work — I want to understand how soft
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Course Registration System
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-Course registration application built around a relational database model for students, courses and enrollments.
-
-**Highlights**
-- Relational database design
-- SQL constraints & relationships
-- .NET 8 + SQL Server integration
-
-[**View Project →**](https://github.com/atanurgul/KursKayitSistemi)
-
----
-
-### 📚 Library Management API
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-REST API for managing a library system using object-oriented programming and automated testing.
-
-**Highlights**
-- RESTful API development
-- Object-oriented design
-- Automated testing with Pytest
-
-[**View Project →**](https://github.com/atanurgul/PythonBootcampProject)
-
----
-
-### 🍷 Wine Quality Classification
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-Machine-learning project predicting wine quality categories using chemical properties.
-
-**Highlights**
-- Random Forest classification
-- SMOTE for class balancing
-- GridSearchCV for model tuning
-
-[**View Project →**](https://github.com/atanurgul/MLBootcampProject)
-
----
-
 ## 🎯 Current Focus
 
 `Software Architecture` · `REST API Design` · `Testing` · `Docker` · `CI/CD` · `Observability` · `System Design`
@@ -114,8 +64,8 @@ Machine-learning project predicting wine quality categories using chemical prope
 
 I'm interested in **software engineering, backend development and building real-world products.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanurgul/)
-[![GitHub](https://img.shields.io/badge/GitHub-atanurgul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atanurgul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanurgul/)
+[![GitHub](https://img.shields.io/badge/GitHub-atanurgul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atanurgul)
 
 <div align="center">
 
